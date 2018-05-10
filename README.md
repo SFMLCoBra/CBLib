@@ -1,7 +1,7 @@
 
 # CBLib
 A SFML-Library 
-(with boost dependencies in "TextDocument.hpp")
+(with boost dependencies in "TextDocument.cpp")
 
 includes:
 - Camera
